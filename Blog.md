@@ -11,7 +11,7 @@ I took some public data from Airbnb site and started my analysis and breakdown. 
 here we can find that Boats are that most expensive property over all other types folled with Condominuin, While dorm is the cheapest.
 
 ## Question 2 What is the most expensive property type?
-![alt text](chart1.png)
+![alt text](chart.png)
 
 ## Question 3 What is the most expensive property type?
 ![alt text](N.png)
