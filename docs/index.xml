@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Practical Statistics</title>
+    <link>/</link>
+    <description>Recent content on Practical Statistics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 May 2017 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generalized Estimating Equations (GEE)</title>
+      <link>/2017/05/10/generalized-estimating-equations-gee/</link>
+      <pubDate>Wed, 10 May 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/05/10/generalized-estimating-equations-gee/</guid>
+      <description>Motivation Suppose we observe repeated measurements (responses and/or covariates) on a group of subjects. We’re interested in modeling the expected response for an individual based on these covariates. Some examples might include
+ assigning individuals to one of several controlled diets and measuring their cholesterol over time studying the relationship of some variable with earnings over time determining the effect of having children on a woman’s probability of participation in the labor force  The benefit of having panel data (repeated measurements) like this is that we can control for time-invariant, unobservable differences between individuals.</description>
+    </item>
+    
+    <item>
+      <title>Fixed, Mixed, and Random Effects</title>
+      <link>/2017/03/03/fixed-mixed-and-random-effects/</link>
+      <pubDate>Fri, 03 Mar 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/03/03/fixed-mixed-and-random-effects/</guid>
+      <description>Last time Practical Statistics met to try to wrap our heads around fixed, mixed, and random effects. Chelsea Zhang gave a great chalk-talk (white board marker-talk just doesn’t have the same ring to it), and I will give a brief summary of the content before going through a real-life example.
+Who Uses Fixed, Mixed, and Random Effects? Two main groups use these terms but are referring to different models. The economists and broadly speaking, “bio folks” are the two main crowds who use these types of models.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 20 Feb 2017 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Welcome to the &amp;ldquo;Practical Statistics&amp;rdquo; group for statistical methods that people expect us to know but that we have no idea about.
+Members of this group meet at Thursdays at 9AM every two weeks for the purpose of learning common statistical methods that we should, but don&amp;rsquo;t, know how to use in practice (but that people in other fields think we do).
+Such topics include
+ ANOVA
+ Mixed effects models</description>
+    </item>
+    
+    <item>
+      <title>Schedule of talks</title>
+      <link>/schedule/</link>
+      <pubDate>Mon, 20 Feb 2017 21:48:51 -0700</pubDate>
+      
+      <guid>/schedule/</guid>
+      <description>Current Schedule We meet every second Tuesday in BIDS at 12pm.
+   Date Topic Presenter Blogger     Sep 18 Variable transformations in regression Rebecca Barter Rebecca   Oct 2 Optimization Francois Lanusse    Oct 16 ANOVA Henry Pinkard    Oct 30 Statistics on a sphere (Fisher statistics and the von Mises-Fisher distribution) Nick Swanson-Hysell    Nov 13 Sparsity constraints Ben Erichson [Ben]   Nov 27 Kolmogorov-smirnov test Matti Picus    Dec 11 Multiple corrections Nelle Varoquaux     Past Schedules    Date Topic Presenter Blogger     Feb.</description>
+    </item>
+    
+    <item>
+      <title>ANOVA</title>
+      <link>/2017/02/20/anova/</link>
+      <pubDate>Mon, 20 Feb 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/02/20/anova/</guid>
+      <description>Last week, practical statistics met to discuss all things ANOVA. Below you will find the slides from my talk, but read on if you would like to learn all about ANOVA.
+   When ANOVA is used and who uses it? ANOVA is used far and wide by the scientific community and beyond. Unfortunately, scientists also frequently misuse ANOVA. A study by Wu et al. (2011) showed that from a survey of 10 leading Chinese medical journals in 2008, 446 articles used ANOVA, and of those articles, 59% of them used ANOVA incorrectly.</description>
+    </item>
+    
+    <item>
+      <title>How to post your blog post</title>
+      <link>/2016/12/27/how-to-post-your-blog-post/</link>
+      <pubDate>Tue, 27 Dec 2016 21:13:14 -0500</pubDate>
+      
+      <guid>/2016/12/27/how-to-post-your-blog-post/</guid>
+      <description>So… how does one get their blog post on here? That’s an excellent question and I’m so glad that you asked!
+It’s quite easy, really. All you need to do is follow the so-simple-and-easy-to-implement steps below! Hooray!
+Step 1: Fork the github repository First thing’s first, you need to fork the git repo on which this site is hosted: https://github.com/rlbarter/Practical-Statistics. Go to this repository and in the top righthand corner, click the Fork button.</description>
+    </item>
+    
+    <item>
+      <title>What are we doing here?</title>
+      <link>/2016/12/27/what-are-we-doing-here/</link>
+      <pubDate>Tue, 27 Dec 2016 21:13:14 -0500</pubDate>
+      
+      <guid>/2016/12/27/what-are-we-doing-here/</guid>
+      <description>Welcome to the “Practical Statistics” group for statistical methods that people expect us to know but that we have no idea about.
+Members of this group meet once every two weeks for the purpose of learning common statistical methods that we should, but don’t, know how to use in practice (but that people in other fields think we do).
+Such topics include
+ ANOVA
+ Mixed effects models
+ Power calculations</description>
+    </item>
+    
+  </channel>
+</rss>

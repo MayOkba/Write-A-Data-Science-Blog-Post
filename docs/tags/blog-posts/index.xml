@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Posts on Practical Statistics</title>
+    <link>/tags/blog-posts/</link>
+    <description>Recent content in Blog Posts on Practical Statistics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2016 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/blog-posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to post your blog post</title>
+      <link>/2016/12/27/how-to-post-your-blog-post/</link>
+      <pubDate>Tue, 27 Dec 2016 21:13:14 -0500</pubDate>
+      
+      <guid>/2016/12/27/how-to-post-your-blog-post/</guid>
+      <description>So… how does one get their blog post on here? That’s an excellent question and I’m so glad that you asked!
+It’s quite easy, really. All you need to do is follow the so-simple-and-easy-to-implement steps below! Hooray!
+Step 1: Fork the github repository First thing’s first, you need to fork the git repo on which this site is hosted: https://github.com/rlbarter/Practical-Statistics. Go to this repository and in the top righthand corner, click the Fork button.</description>
+    </item>
+    
+  </channel>
+</rss>

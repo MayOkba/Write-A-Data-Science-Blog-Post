@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Generalized Estimating Equations on Practical Statistics</title>
+    <link>/tags/generalized-estimating-equations/</link>
+    <description>Recent content in Generalized Estimating Equations on Practical Statistics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 May 2017 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/generalized-estimating-equations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generalized Estimating Equations (GEE)</title>
+      <link>/2017/05/10/generalized-estimating-equations-gee/</link>
+      <pubDate>Wed, 10 May 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/05/10/generalized-estimating-equations-gee/</guid>
+      <description>Motivation Suppose we observe repeated measurements (responses and/or covariates) on a group of subjects. We’re interested in modeling the expected response for an individual based on these covariates. Some examples might include
+ assigning individuals to one of several controlled diets and measuring their cholesterol over time studying the relationship of some variable with earnings over time determining the effect of having children on a woman’s probability of participation in the labor force  The benefit of having panel data (repeated measurements) like this is that we can control for time-invariant, unobservable differences between individuals.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Method on Practical Statistics</title>
+    <link>/categories/method/</link>
+    <description>Recent content in Method on Practical Statistics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 May 2017 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/method/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generalized Estimating Equations (GEE)</title>
+      <link>/2017/05/10/generalized-estimating-equations-gee/</link>
+      <pubDate>Wed, 10 May 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/05/10/generalized-estimating-equations-gee/</guid>
+      <description>Motivation Suppose we observe repeated measurements (responses and/or covariates) on a group of subjects. We’re interested in modeling the expected response for an individual based on these covariates. Some examples might include
+ assigning individuals to one of several controlled diets and measuring their cholesterol over time studying the relationship of some variable with earnings over time determining the effect of having children on a woman’s probability of participation in the labor force  The benefit of having panel data (repeated measurements) like this is that we can control for time-invariant, unobservable differences between individuals.</description>
+    </item>
+    
+    <item>
+      <title>Fixed, Mixed, and Random Effects</title>
+      <link>/2017/03/03/fixed-mixed-and-random-effects/</link>
+      <pubDate>Fri, 03 Mar 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/03/03/fixed-mixed-and-random-effects/</guid>
+      <description>Last time Practical Statistics met to try to wrap our heads around fixed, mixed, and random effects. Chelsea Zhang gave a great chalk-talk (white board marker-talk just doesn’t have the same ring to it), and I will give a brief summary of the content before going through a real-life example.
+Who Uses Fixed, Mixed, and Random Effects? Two main groups use these terms but are referring to different models. The economists and broadly speaking, “bio folks” are the two main crowds who use these types of models.</description>
+    </item>
+    
+    <item>
+      <title>ANOVA</title>
+      <link>/2017/02/20/anova/</link>
+      <pubDate>Mon, 20 Feb 2017 21:13:14 -0500</pubDate>
+      
+      <guid>/2017/02/20/anova/</guid>
+      <description>Last week, practical statistics met to discuss all things ANOVA. Below you will find the slides from my talk, but read on if you would like to learn all about ANOVA.
+   When ANOVA is used and who uses it? ANOVA is used far and wide by the scientific community and beyond. Unfortunately, scientists also frequently misuse ANOVA. A study by Wu et al. (2011) showed that from a survey of 10 leading Chinese medical journals in 2008, 446 articles used ANOVA, and of those articles, 59% of them used ANOVA incorrectly.</description>
+    </item>
+    
+  </channel>
+</rss>

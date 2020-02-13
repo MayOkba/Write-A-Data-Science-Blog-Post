@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Practical Statistics</title>
+    <link>/tags/about/</link>
+    <description>Recent content in About on Practical Statistics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2016 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What are we doing here?</title>
+      <link>/2016/12/27/what-are-we-doing-here/</link>
+      <pubDate>Tue, 27 Dec 2016 21:13:14 -0500</pubDate>
+      
+      <guid>/2016/12/27/what-are-we-doing-here/</guid>
+      <description>Welcome to the “Practical Statistics” group for statistical methods that people expect us to know but that we have no idea about.
+Members of this group meet once every two weeks for the purpose of learning common statistical methods that we should, but don’t, know how to use in practice (but that people in other fields think we do).
+Such topics include
+ ANOVA
+ Mixed effects models
+ Power calculations</description>
+    </item>
+    
+  </channel>
+</rss>
