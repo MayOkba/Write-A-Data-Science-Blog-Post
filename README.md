@@ -19,7 +19,7 @@ So i decided to help them through outcomes of this code
 ## Files List And Description
 
 - Blog file: it is the final outcome and conclusions any tourist can read, no need to have any background technical knowledge 
-- Code File: it is the code i developed to write down my blog, you need to have python backgroud before exploring it
+- Project1 File: it is the code i developed to write down my blog, you need to have python backgroud before exploring it
 
 ## Results Summary
 
